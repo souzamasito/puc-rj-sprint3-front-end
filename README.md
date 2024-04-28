@@ -16,7 +16,7 @@ Benefícios deste sistema:
 
 O sistema permite que o usuário registre informações sobre a praia, CEP, cidade, UF, tipo de lixo e a data onde foi observado. Estas informações ficam registradas em uma lista e podem ser excluídas a qualquer tempo.
 
-
+![esquema](https://github.com/souzamasito/puc-rj-sprint3-front-end/tree/main/src/imagem)
 
 ---
 ## Como executar em modo de desenvolvimento
